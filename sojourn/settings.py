@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-juu#+4kz#(-ng&#b$d-!ii5i(f-dbebpz-g=q@q+xb(#=5jhi)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-katiejanecoughl-sojourn-nbizemjr156.ws-eu108.gitpod.io', 'https://git.heroku.com/sojourn.git']
 
